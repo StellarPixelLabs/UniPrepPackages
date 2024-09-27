@@ -4,6 +4,10 @@ The target of this file is to help you define and understand what a package here
 Each package is defining a set of notes and questions, where later the user can use them to prepare for a test and study.   
 Its OK if there are multiple packages for each subject, the user can choose to use a specific package or mix them, obviously there will be overlaps.
 
+## How to use
+Simply copy the link for the directory in the repository.   
+So you can make multiple packages where each package is a directory in the repository!
+
 ## Kind of types
  - Package
  - Close Question
