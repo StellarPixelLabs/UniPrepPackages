@@ -34,12 +34,5 @@ file: `closeq.json`.
  - title:string, the title of the question.
  - desc:string, the question description.
  - tag:string or null, tag will help filter your question, for example, C if its a C lang question.
- - opA:string, the first option.
- - opB:string, the second option.
- - opC:string or null, the third option, use null if theres no such option.
- - opD:string or null, the fourth option, use null if theres no such option.
- - opE:string or null, the fifth option, use null if theres no such option.
- - opF:string or null, the sixth option, use null if theres no such option.
- - opG:string or null, the seventh option, use null if theres no such option.
- - opH:string or null, the eight option, use null if theres no such option.
+ - options:string[], array of the answers.
  - answer:number, this is the **index** of the correct answer so from 0 include to 7 include.
