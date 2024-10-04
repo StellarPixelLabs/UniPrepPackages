@@ -1,0 +1,26 @@
+[
+    {
+        "title":"",
+        "desc":"Translate the word \"Speech\"",
+        "tag":"translate",
+        "options":[
+            "אויב",
+            "שולחן כתיבה",
+            "נאום",
+            "להתכווץ"
+        ],
+        "asnwer":2
+    },
+    {
+        "title":"",
+        "desc":"Translate the word \"Privacy\"",
+        "tag":"translate",
+        "options":[
+            "פרטיות",
+            "פינה",
+            "למות",
+            "נחל"
+        ],
+        "asnwer":0
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "title":"",
+        "desc":"Translate the word \"Contention\"",
+        "tag":"translate",
+        "options":[
+            "ריב",
+            "להציל",
+            "עינוי",
+            "חתיכה"
+        ],
+        "asnwer":0
+    },
+    {
+        "title":"",
+        "desc":"Translate the word \"Meddle\"",
+        "tag":"translate",
+        "options":[
+            "להתערב",
+            "לדהור",
+            "חיכוך",
+            "לחבל"
+        ],
+        "asnwer":0
+    },
+    {
+        "title":"",
+        "desc":"Translate the word \"Loathe\"",
+        "tag":"translate",
+        "options":[
+            "שובבות",
+            "עמוק",
+            "בציר טוב",
+            "לתעב"
+        ],
+        "asnwer":3
+    }
+    
+]
