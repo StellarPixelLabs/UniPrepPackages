@@ -43,3 +43,10 @@ file: `note.json`.
  - desc:string, the note desctiption.
  - tag:string or null, tag will help filter your note, for example, C if its a C lang note.
  - course:string, the course that your note is related to.
+
+### Open Questions
+file: `openq.json`
+ - title:string, the title of the question.
+ - desc:string, the question description.
+ - tag:string or null, string or null, tag will help filter your note, for example, C if its a C lang question.
+ - answer:string, the answer for the question.
