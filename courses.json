@@ -1,9 +1,9 @@
-[
-  "TelAvivUniversity":[
+{
+  "TelAvivUniversity": [
     "OS",
     "Graphics"
   ],
-  "General":[
+  "General": [
     "English"
   ]
-]
+}
