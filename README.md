@@ -36,3 +36,10 @@ file: `closeq.json`.
  - tag:string or null, tag will help filter your question, for example, C if its a C lang question.
  - options:string[], array of the answers.
  - answer:number, this is the **index** of the correct answer so from 0 include to 7 include.
+
+### Notes
+file: `note.json`.
+ - title:string, the title of the note.
+ - desc:string, the note desctiption.
+ - tag:string or null, tag will help filter your note, for example, C if its a C lang note.
+ - course:string, the course that your note is related to.
