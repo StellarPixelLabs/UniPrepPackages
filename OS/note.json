@@ -1,0 +1,8 @@
+[
+    {
+        "title": "DMA",
+        "desc": "DMA is a hardware that allows a device to access the memory and transfer data alone, so the cpu doesnt waste time on it!",
+        "tag": null,
+        "course": "OS"
+    }
+]
