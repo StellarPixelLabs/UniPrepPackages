@@ -1,5 +1,7 @@
 {
   "storeLinks": [
-    "https://raw.githubusercontent.com/StellarPixelLabs/UniPrepPackages/refs/heads/main/OS"
+    "https://raw.githubusercontent.com/StellarPixelLabs/UniPrepPackages/refs/heads/main/OS",
+    "https://raw.githubusercontent.com/StellarPixelLabs/UniPrepPackages/refs/heads/main/English/Advance",
+    "https://raw.githubusercontent.com/StellarPixelLabs/UniPrepPackages/refs/heads/main/English/Beginner"
   ]
 }
